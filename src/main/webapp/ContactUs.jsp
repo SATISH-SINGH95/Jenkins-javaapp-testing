@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>This is contact us page</h1>
+<p>This is only for testing purpose</p>
 </body>
 </html>
